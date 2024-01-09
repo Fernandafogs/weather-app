@@ -99,3 +99,14 @@
     font-weight: 400;
 }
 
+
+@media screen and (min-width:605px){
+    .container {
+        width: 100%;
+        max-width: 1900px; /* Largura máxima do contêiner */
+        height: 900px;
+        margin: 0 auto;
+        border-radius: 0;
+    }
+}
+
